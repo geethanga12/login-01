@@ -32,3 +32,5 @@ function loginHandle() {
       display.classList.add("text-red-500");
     });
 }
+
+console.log('all done')
